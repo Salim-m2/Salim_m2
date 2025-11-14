@@ -24,22 +24,34 @@ Focused on writing clean code, great UI, and solving real-world problems.
 ---
 
 # 📊 Skill Progress
-
-| Skill | Progress |
-|-------|----------|
-| HTML | ![](https://progress-bar.dev/90/?title=HTML&width=200&color=blue) |
-| CSS | ![](https://progress-bar.dev/85/?title=CSS&width=200&color=blue) |
-| JavaScript | ![](https://progress-bar.dev/80/?title=JavaScript&width=200&color=blue) |
-| React | ![](https://progress-bar.dev/75/?title=React&width=200&color=blue) |
-| Bootstrap | ![](https://progress-bar.dev/85/?title=Bootstrap&width=200&color=blue) |
-| Node.js | ![](https://progress-bar.dev/75/?title=Node.js&width=200&color=blue) |
-| Express | ![](https://progress-bar.dev/70/?title=Express&width=200&color=blue) |
-| MongoDB | ![](https://progress-bar.dev/75/?title=MongoDB&width=200&color=blue) |
-| Git | ![](https://progress-bar.dev/80/?title=Git&width=200&color=blue) |
-
+### 🚀 Skill Progress
 
 **HTML**  
 <img src="https://progress-bar-xyz.vercel.app/progress?percent=90&width=300" />
+
+**CSS**  
+<img src="https://progress-bar-xyz.vercel.app/progress?percent=85&width=300" />
+
+**JavaScript**  
+<img src="https://progress-bar-xyz.vercel.app/progress?percent=80&width=300" />
+
+**React**  
+<img src="https://progress-bar-xyz.vercel.app/progress?percent=75&width=300" />
+
+**Bootstrap**  
+<img src="https://progress-bar-xyz.vercel.app/progress?percent=85&width=300" />
+
+**Node.js**  
+<img src="https://progress-bar-xyz.vercel.app/progress?percent=75&width=300" />
+
+**Express.js**  
+<img src="https://progress-bar-xyz.vercel.app/progress?percent=70&width=300" />
+
+**MongoDB**  
+<img src="https://progress-bar-xyz.vercel.app/progress?percent=75&width=300" />
+
+**Git**  
+<img src="https://progress-bar-xyz.vercel.app/progress?percent=80&width=300" />
 
 ---
 
