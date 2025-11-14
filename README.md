@@ -34,31 +34,32 @@ I focus on simplicity, performance, and solving real-world problems with code.
 # 📊 Skill Progress
 
 **HTML**  
-<img src="https://progress-bar-xyz.vercel.app/progress?percent=90&width=300" />
+███████████████████████░░░░ 90%
 
 **CSS**  
-<img src="https://progress-bar-xyz.vercel.app/progress?percent=85&width=300" />
+██████████████████████░░░░░ 85%
 
 **JavaScript**  
-<img src="https://progress-bar-xyz.vercel.app/progress?percent=80&width=300" />
+████████████████████░░░░░░░ 80%
 
 **React**  
-<img src="https://progress-bar-xyz.vercel.app/progress?percent=75&width=300" />
+██████████████████░░░░░░░░░ 75%
 
 **Bootstrap**  
-<img src="https://progress-bar-xyz.vercel.app/progress?percent=85&width=300" />
+██████████████████████░░░░░ 85%
 
 **Node.js**  
-<img src="https://progress-bar-xyz.vercel.app/progress?percent=75&width=300" />
+██████████████████░░░░░░░░░ 75%
 
 **Express.js**  
-<img src="https://progress-bar-xyz.vercel.app/progress?percent=70&width=300" />
+█████████████████░░░░░░░░░░ 70%
 
 **MongoDB**  
-<img src="https://progress-bar-xyz.vercel.app/progress?percent=75&width=300" />
+██████████████████░░░░░░░░░ 75%
 
 **Git**  
-<img src="https://progress-bar-xyz.vercel.app/progress?percent=80&width=300" />
+████████████████████░░░░░░ 80%
+
 
 ---
 
