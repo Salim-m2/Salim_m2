@@ -80,7 +80,7 @@ I focus on simplicity, performance, and solving real-world problems with code.
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
