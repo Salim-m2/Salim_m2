@@ -37,6 +37,10 @@ Focused on writing clean code, great UI, and solving real-world problems.
 | MongoDB | ![](https://progress-bar.dev/75/?title=MongoDB&width=200&color=blue) |
 | Git | ![](https://progress-bar.dev/80/?title=Git&width=200&color=blue) |
 
+
+**HTML**  
+<img src="https://progress-bar-xyz.vercel.app/progress?percent=90&width=300" />
+
 ---
 
 # 📈 GitHub Stats
